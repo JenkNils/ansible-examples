@@ -23,6 +23,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory_children" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_children" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loops.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/propagate_ssh_key.yml" beforeDir="false" afterPath="$PROJECT_DIR$/propagate_ssh_key.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awx-15.0.1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -113,6 +115,9 @@
       <workItem from="1608896205591" duration="8342000" />
       <workItem from="1611840327225" duration="632000" />
       <workItem from="1612080746035" duration="4741000" />
+      <workItem from="1612177260197" duration="13091000" />
+      <workItem from="1612255469048" duration="4645000" />
+      <workItem from="1612260832223" duration="1819000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <created>1591282108822</created>

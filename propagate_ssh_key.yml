@@ -1,7 +1,7 @@
 ---
 # resolved : https://bugzilla.redhat.com/show_bug.cgi?id=1539142
 #
-- hosts: all,!local
+- hosts: all,!local #on exclu local
   become: true
   vars:
     myuser: justin

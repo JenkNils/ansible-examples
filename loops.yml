@@ -1,7 +1,7 @@
 ---
 - hosts: all
   tasks:
-  - name:  multiple items .- "{{ item }}"
+  - name:  multiple items.
     file: 
       state:  touch 
       path:  /home/{{ansible_ssh_user}}/{{ item }}
